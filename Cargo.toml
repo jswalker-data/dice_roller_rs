@@ -1,0 +1,14 @@
+[package]
+name = "dice_roller_rs"
+version = "0.1.0"
+edition = "2021"
+authors = ["Your Name <your.email@example.com>"]
+description = "A Rust library for simulating dice rolls in RPG games"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/jswalker-data/dice_roller_rs"
+keywords = ["dice", "rpg", "gaming", "random", "tabletop"]
+categories = ["games", "simulation"]
+readme = "README.md"
+
+[dependencies]
+rand = "0.8"
