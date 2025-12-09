@@ -1,8 +1,8 @@
 [package]
 name = "dice_roller_rs"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
-authors = ["Your Name <your.email@example.com>"]
+authors = ["joshwalker.oni@gmail.com"]
 description = "A Rust library for simulating dice rolls in RPG games"
 license = "MIT OR Apache-2.0"
 repository = "https://github.com/jswalker-data/dice_roller_rs"
